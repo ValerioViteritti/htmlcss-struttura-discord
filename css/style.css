@@ -29,14 +29,27 @@ body{
     justify-content: space-between;
     border-style: dotted;
 }
+#logo{
+    width: 20%;
+    border-right-style: dotted;
+
+}
 
 #nav ul{
     display: flex;
     
 }
 
+ul li{
+    padding: 0 5px;
+    
+}
+
 #login{
-    width: 20%%;
+    width: 20%;
+    border-left-style: dotted;
+    text-align: right;
+
 }
 
 
