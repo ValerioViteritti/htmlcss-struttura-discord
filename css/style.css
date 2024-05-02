@@ -147,3 +147,9 @@ ul li{
     border: 1px dashed black;
     padding: 0 5px;
 }
+#footer-down button{
+    color: black;
+    background-color: pink;
+    border: 1px dashed black;
+    padding: 0 5px;
+}
