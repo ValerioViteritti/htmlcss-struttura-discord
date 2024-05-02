@@ -4,26 +4,49 @@
     box-sizing: border-box;
 }
 
+body{
+    width: 100%;
+}
+
 #header-nav{
+    background-color: aqua;
+    height: 50px;
 
 }
 
 #header-sub-nav{
+    background-color: rgb(0, 8, 255);
+    height: 350px;
 
 }
 
 .section-main{
+    background-color: rgb(255, 255, 255);
+    height: 400px;
 
 }
 
+.section-main-cnt{
+    background-color: rgb(127, 127, 127);
+    height: 400px;
+    
+}
+
 .section-main-down{
+    background-color: rgb(127, 127, 127);
+    height: 650px;
 
 }
 
 .section-footer-up{
+    background-color: rgb(37, 37, 37);
+    height: 400px;
+    border-bottom: 2px solid grey;
 
 }
 
 .section-footer-down{
-    
+    background-color: rgb(37, 37, 37);
+    height: 50px;
+
 }
